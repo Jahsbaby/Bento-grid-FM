@@ -1,4 +1,8 @@
-# Frontend Mentor - Bento grid
+I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/bento-grid-Tnli1LDzd1
+
+Any suggestions on how I can improve are welcome!# Frontend Mentor - Bento grid
 
 ![Design preview for the Bento grid coding challenge](./preview.jpg)
 
